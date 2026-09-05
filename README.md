@@ -50,6 +50,31 @@
 
 </div>
 
+---
+
+<details>
+<summary>☕ <b>Поддержать / Donate (CloudTips & Crypto)</b></summary>
+<br>
+
+Если проект оказался полезным, вы можете поддержать его развитие:
+
+### 💳 CloudTips (Карты РФ / СБП)
+[![CloudTips](https://img.shields.io/badge/CloudTips-Отправить_донат-4B70E2?style=for-the-badge&logo=tinkoff&logoColor=white)](https://pay.cloudtips.ru/p/e961c0fa)
+
+---
+
+### 🪙 Криптовалюта / Crypto
+
+| Монета / Сеть | Адрес кошелька |
+| :--- | :--- |
+| ![USDT](https://img.shields.io/badge/USDT_(TRC20)-50AF95?style=flat-square&logo=tether&logoColor=white) | `TG7rYQM4nsC293Eg7cJ1ph1kguLh1A8xCV` |
+| ![BTC](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) | `bc1q5zmn5f3egeja9v9fwdjn2ld773k4sq0wv8csh3` |
+| ![ETH](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | `0x46922F2abf0eA51E255C6a62bC8Fb71e604Bad76` |
+
+> *Спасибо за поддержку! 🙏* / *tysm for support🙏*
+
+</details>
+
 <br>
 
 <div align="center">
