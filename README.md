@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,go,python,ts,js,c,linux,ubuntu,docker,nginx,git,bash,apple" />
+<img src="https://skillicons.dev/icons?i=rust,go,python,ts,js,c,zig,linux,ubuntu,docker,nginx,git,bash,apple" />
 
 </div>
 
