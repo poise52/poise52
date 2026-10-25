@@ -78,5 +78,23 @@
 <br>
 
 <div align="center">
+
+  <a href="https://github.com/md-abu-kayser">
+    <img
+      src="https://komarev.com/ghpvc/?username=poise52&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6"
+      alt="Profile Views"
+    />
+  </a>
+
+  <a href="https://github.com/md-abu-kayser?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/poise52?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717"
+      alt="Followers"
+    />
+  </a>
+
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,44&height=100&section=footer" width="100%"/>
 </div>
