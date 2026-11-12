@@ -1,100 +1,146 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,44&height=180&section=header&text=Hi%20there,%20I'm%20Egor%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Rust+%26+Go+Enthusiast;Network+%26+Proxy+Protocols;Backend+Developer;Linux+%26+DevOps+Tinkerer)](https://git.io/typing-svg)
+# Egor / poise52
 
-</div>
+**Backend & Systems Developer**
 
-### 🛠️ Стек технологий / Tech Stack
+Building software at the intersection of systems programming, networking, developer tooling, and desktop applications.
 
-<div align="center">
+I enjoy working close to the system: understanding protocols, optimizing performance, designing reliable services, and building tools that solve real problems.
 
-<img src="https://skillicons.dev/icons?i=rust,go,python,ts,js,c,zig,linux,ubuntu,docker,nginx,git,bash,apple" />
-
-</div>
+[Portfolio](https://amaecp.xyz/#about) · [Telegram](https://t.me/equipoise1) · [Email](mailto:equipoise52@gmail.com)
 
 ---
 
-### 📊 Статистика на GitHub / GitHub Stats
+## Featured Projects
 
-<div align="center">
+### [amae](https://github.com/poise52/amae)
+**A JavaScript package manager written in Rust.**
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=poise52&show_icons=true&theme=radical">
-  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=poise52&show_icons=true&theme=default">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=poise52&theme=radical">
-  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=poise52&theme=default">
-</picture>
+A content-addressable package manager designed to avoid redundant files and speed up dependency installation.
 
-  <br><br>
+- Global content-addressable storage
+- Hard-linked dependencies
+- Workspace and lockfile support
+- Embedded scripting with Lua and JavaScript/TypeScript
+- Cross-platform native binaries
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poise52&theme=tokyonight&hide_border=true" alt="streak" />
+**Tech:** Rust, Tokio, V8
 
-</div>
+### [USBview HS](https://github.com/poise52/USBview-HS)
+**A native USB inspector and device manager for macOS.**
+
+Explore the USB topology, inspect devices and hubs, and reconnect unresponsive USB devices without physically unplugging them.
+
+- Native macOS interface and menu bar integration
+- USB device tree and port diagnostics
+- Device and hub reset capabilities
+- Command-line tooling
+
+**Tech:** Swift, SwiftUI, Haskell, IOKit
+
+### [Readio](https://github.com/poise52/readio)
+**A cross-platform ebook reader with text-to-speech.**
+
+Read EPUB, FB2, and TXT books, generate speech, and listen offline.
+
+- Text-to-speech with multiple providers
+- Offline audio caching and playback
+- Bookmarks and reading progress
+- Windows and macOS support
+
+**Tech:** Rust, Tauri, TypeScript, SQLite
+
+### [virm](https://github.com/poise52/virm)
+**An experimental networking core written in Zig.**
+
+Exploring low-level network I/O, memory management, and event-driven architectures.
+
+- Buffer pools and bounded queues
+- TCP connection lifecycle management
+- kqueue-based TCP relay
+- Low-level networking experiments
+
+**Tech:** Zig, TCP/IP, kqueue
 
 ---
 
-### 📬 Связаться со мной / Connect with me
+## Open Source Contributions
 
-<div align="center">
+I contribute to [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui), an open-source proxy and server management panel.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/equipoise1)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/252426072912560138)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:equipoise52@gmail.com)
+### [Native TUIC v5 Server — PR #6577](https://github.com/MHSanaei/3x-ui/pull/6577)
+**Merged · October 2026**
 
-</div>
+Implemented a native, in-process TUIC v5 server in Go, replacing the external Rust sidecar.
+
+- Integrated TCP and UDP traffic with Xray routing
+- Added per-client traffic accounting and quota enforcement
+- Implemented hot client updates without restarting the listener
+- Eliminated the need for an external TUIC server binary
+
+### [Discord Notification Service — PR #6486](https://github.com/MHSanaei/3x-ui/pull/6486)
+**Merged · September 2026**
+
+Implemented native Discord notifications using the Discord REST API and the existing event bus.
+
+- System health and network connectivity alerts
+- Xray crash and security event notifications
+- Rate limiting and credential protection
+- Dedicated settings interface and automated tests
 
 ---
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Go, Rust, Python, FastAPI, Node.js |
+| Systems | Zig, Haskell, Linux, macOS |
+| Networking | TCP/IP, UDP, QUIC, SOCKS5, Xray |
+| Frontend | TypeScript, JavaScript, Vue, React, SwiftUI |
+| Desktop | Tauri, SwiftUI |
+| Infrastructure | Docker, Nginx, Git, CI/CD |
+| Databases | PostgreSQL, SQLite |
+
+---
+
+## What I'm Interested In
+
+- Network protocols and high-performance networking
+- Systems programming and low-level optimization
+- Developer tools and package management
+- Reliable backend architecture
+- Open-source collaboration
+
+I prefer building things that are practical, maintainable, and technically interesting.
+
+---
+
+## Connect
+
+- **Website:** [amaecp.xyz](https://amaecp.xyz/#about)
+- **GitHub:** [@poise52](https://github.com/poise52)
+- **Telegram:** [@equipoise1](https://t.me/equipoise1)
+- **Email:** [equipoise52@gmail.com](mailto:equipoise52@gmail.com)
+
 
 <details>
-<summary>☕ <b>Поддержать / Donate (CloudTips & Crypto)</b></summary>
-<br>
+<summary>☕ <b>Support My Open-Source Work</b></summary>
 
-Если проект оказался полезным, вы можете поддержать его развитие:
+If you find my projects useful, you can support their development.
 
-### 💳 CloudTips (Карты РФ / СБП)
-[![CloudTips](https://img.shields.io/badge/CloudTips-Отправить_донат-4B70E2?style=for-the-badge&logo=tinkoff&logoColor=white)](https://pay.cloudtips.ru/p/e961c0fa)
+### 💳 CloudTips
 
----
+[![CloudTips](https://img.shields.io/badge/CloudTips-Donate-4B70E2?style=for-the-badge)](https://pay.cloudtips.ru/p/e961c0fa)
 
-### 🪙 Криптовалюта / Crypto
+### 🪙 Cryptocurrency
 
-| Монета / Сеть | Адрес кошелька |
-| :--- | :--- |
-| ![USDT](https://img.shields.io/badge/USDT_(TRC20)-50AF95?style=flat-square&logo=tether&logoColor=white) | `TG7rYQM4nsC293Eg7cJ1ph1kguLh1A8xCV` |
-| ![BTC](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) | `bc1q5zmn5f3egeja9v9fwdjn2ld773k4sq0wv8csh3` |
-| ![ETH](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | `0x46922F2abf0eA51E255C6a62bC8Fb71e604Bad76` |
+| Currency | Wallet Address |
+| --- | --- |
+| **USDT (eth)** | `0xdAC17F958D2ee523a2206206994597C13D831ec7` |
+| **Bitcoin (BTC)** | `bc1q5v4fja0ghycnlgfre082md78sqras05n964nwl` |
+| **Ethereum (ETH)** | `0x44D47F8A2229c2E5ac688Ab755C63D6B98cFC232` |
 
-> *Спасибо за поддержку! 🙏* / *tysm for support🙏*
+Thank you for supporting independent open-source development.
 
 </details>
-
-<br>
-
-<div align="center">
-
-  <a href="https://github.com/md-abu-kayser">
-    <img
-      src="https://komarev.com/ghpvc/?username=poise52&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6"
-      alt="Profile Views"
-    />
-  </a>
-
-  <a href="https://github.com/md-abu-kayser?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/poise52?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717"
-      alt="Followers"
-    />
-  </a>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,44&height=100&section=footer" width="100%"/>
-</div>
