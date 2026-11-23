@@ -9,6 +9,27 @@ I enjoy working close to the system: understanding protocols, optimizing perform
 
 [Portfolio](https://amaecp.xyz/#about) · [Telegram](https://t.me/equipoise1) · [Email](mailto:equipoise52@gmail.com)
 
+<details>
+<summary>☕ <b>Support My Open-Source Work</b></summary>
+
+If you find my projects useful, you can support their development.
+
+### 💳 CloudTips
+
+[![CloudTips](https://img.shields.io/badge/CloudTips-Donate-4B70E2?style=for-the-badge)](https://pay.cloudtips.ru/p/e961c0fa)
+
+### 🪙 Cryptocurrency
+
+| Currency | Wallet Address |
+| --- | --- |
+| **USDT (eth)** | `0xdAC17F958D2ee523a2206206994597C13D831ec7` |
+| **Bitcoin (BTC)** | `bc1q5v4fja0ghycnlgfre082md78sqras05n964nwl` |
+| **Ethereum (ETH)** | `0x44D47F8A2229c2E5ac688Ab755C63D6B98cFC232` |
+
+Thank you for supporting independent open-source development.
+
+</details>
+
 ---
 
 ## Featured Projects
